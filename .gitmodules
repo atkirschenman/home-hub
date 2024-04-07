@@ -1,0 +1,6 @@
+[submodule "react/devicelist"]
+	path = react/devicelist
+	url = git@github.com:atkirschenman/home-hub.react.devicelist.git
+[submodule "electron/backbone"]
+	path = electron/backbone
+	url = git@github.com:atkirschenman/electron.backbonewindows.git
