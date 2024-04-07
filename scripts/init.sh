@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Starting electron with React"
+echo "build electron with React"
 
 cd react/devicelist
 pwd
